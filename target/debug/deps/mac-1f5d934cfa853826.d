@@ -1,0 +1,14 @@
+/home/leticia/paper-track-rs/target/debug/deps/mac-1f5d934cfa853826.rmeta: /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/leticia/paper-track-rs/target/debug/deps/libmac-1f5d934cfa853826.rlib: /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/leticia/paper-track-rs/target/debug/deps/mac-1f5d934cfa853826.d: /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs:
+/home/leticia/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs:
