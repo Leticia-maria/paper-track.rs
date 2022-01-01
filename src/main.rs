@@ -31,7 +31,7 @@ fn extract_links(content: &str) -> HashSet<Cow<str>> {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
   let content = reqwest::get(
-    "https://en.wikipedia.org/w/index.php?title=Rust_(programming_language)&action=raw",
+    "https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=rust+language&btnG=raw",
   )
   .await?
   .text()
